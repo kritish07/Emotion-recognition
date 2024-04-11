@@ -46,3 +46,6 @@ The project relies on the following Python libraries:
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue.
 
+## License
+
+This project is licensed under a custom license: LICENSE that restricts commercial use, distribution, patent or trademark use of the code. You are free to use the code for private, non-commercial purposes only.
